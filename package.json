@@ -15,12 +15,12 @@
     "passport-strategy": "1.0.0"
   },
   "deprecated": false,
-  "description": "Passport Authentication Strategy for IBM Bluemix Single Sign-On (SSO) service",
+  "description": "Fork of passport-idaas-openidconnect with dynamic cert imports",
   "engines": {
     "node": ">= 0.4.0"
   },
   "license": "MIT",
   "main": "./lib",
-  "name": "passport-idaas-openidconnect",
-  "version": "2.0.3"
+  "name": "passport-idaas-openidconnect-ww",
+  "version": "2.0.3.1"
 }
