@@ -22,5 +22,5 @@
   "license": "MIT",
   "main": "./lib",
   "name": "passport-idaas-openidconnect-ww",
-  "version": "2.0.31"
+  "version": "2.0.32"
 }
