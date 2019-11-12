@@ -1,0 +1,1 @@
+Forked passport-idaas-openidconnect from 2.0.3 adding dynamic cert injection to strategy
